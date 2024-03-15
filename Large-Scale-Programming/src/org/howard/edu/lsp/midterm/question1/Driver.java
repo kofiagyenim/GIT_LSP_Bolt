@@ -19,10 +19,10 @@ public class Driver {
         System.out.println("Encrypted text: " + encryptedText);
         
         //Test 2 of the encrypt method
-        String text1 = "I love pRograMMing";
-        String encryptedText1 = SecurityOps.encrypt(text1);
-        System.out.println("Original text: " + text1);
-        System.out.println("Encrypted text: " + encryptedText1);
+//        String text1 = "I love pRograMMing";
+//        String encryptedText1 = SecurityOps.encrypt(text1);
+//        System.out.println("Original text: " + text1);
+//        System.out.println("Encrypted text: " + encryptedText1);
     }
 }
 
